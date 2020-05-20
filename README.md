@@ -7,3 +7,5 @@ Comandos:
 git init - Cria repositório
 
 ERRO
+
+git - push "Empurra o local para o remoto"
